@@ -1,9 +1,11 @@
 #=====================================================================================================
-#    Author: Maximilian Edison                                                                       |
-#    Date:                                                                                           | 
-#    License: https://github.com/MaxianEdison/PasswordGenerator/blob/main/LICENSE                    |  
-#    Source: https://github.com/MaxianEdison/PasswordGenerator                                       | 
+#    Author: Maximilian Edison                                                                       
+#    Date:                                                                                            
+#    License: https://github.com/MaxianEdison/PasswordGenerator/blob/main/LICENSE                      
+#    Source: https://github.com/MaxianEdison/PasswordGenerator                                       
 #=====================================================================================================
+
+
 import random
 import string 
 
