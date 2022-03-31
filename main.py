@@ -1,7 +1,7 @@
 #=====================================================================================================
 #    Author: Maximilian Edison                                                                       |
 #    Date:                                                                                           | 
-#    Lincence: https://github.com/MaxianEdison/PasswordGenerator/blob/main/LICENSE                   |  
+#    License: https://github.com/MaxianEdison/PasswordGenerator/blob/main/LICENSE                    |  
 #    Source: https://github.com/MaxianEdison/PasswordGenerator                                       | 
 #=====================================================================================================
 import random
