@@ -1,7 +1,7 @@
 #### simple passwoed generator
 how use ? 
 ```
-$ git clone 
+$ git clone https://github.com/MaxianEdison/PasswordGenerator.git
 $ cd PasswordGenerator
-$ python 
+$ python main.py
 ```
