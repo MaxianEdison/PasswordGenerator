@@ -1,4 +1,4 @@
-#### simple passwoed generator
+### simple passwoed generator
 how use ? 
 ```
 $ git clone https://github.com/MaxianEdison/PasswordGenerator.git
