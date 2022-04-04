@@ -1,4 +1,4 @@
-### simple passwoed generator
+### simple password generator
 how use ? 
 ```
 # clone this repo
