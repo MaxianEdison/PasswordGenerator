@@ -1,5 +1,5 @@
 ### simple password generator
-how use ? 
+use python(main.py) file
 ```
 # clone this repo
 $ git clone https://github.com/MaxianEdison/PasswordGenerator.git
